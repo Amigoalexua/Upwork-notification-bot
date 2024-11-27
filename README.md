@@ -1,3 +1,4 @@
 # Upwork-notification-bot
 
-Some read me
+Free Upwork job parser
+Try bot here: @Upwork_get_Notification_bot
